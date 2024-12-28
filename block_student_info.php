@@ -1,25 +1,18 @@
 <?php
-// Este arquivo é parte do Moodle - http://moodle.org/
+// This file is part of Moodle - http://moodle.org/
 //
-// O Moodle é um software livre: você pode redistribuí-lo e/ou modificá-lo
-// sob os termos da Licença Pública Geral GNU conforme publicada pela
-// Free Software Foundation, seja na versão 3 da Licença ou
-// (a seu critério) qualquer versão posterior.
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
 //
-// O Moodle é distribuído na esperança de que seja útil,
-// mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de
-// COMERCIABILIDADE ou ADEQUAÇÃO A UM DETERMINADO FIM. Consulte a
-// Licença Pública Geral GNU para mais detalhes.
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
 //
-// Você deve ter recebido uma cópia da Licença Pública Geral GNU
-// junto com este programa. Se não, veja <http://www.gnu.org/licenses/>.
-
-/**
- * Nome do Plugin: Bloco de Informações do Estudante
- * Descrição: Exibe o nome e o grupo de um estudante inscrito em um curso.
- * Versão: 2024111100
- * Requer: Moodle 4.5
- */
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 class block_student_info extends block_base {
     public function init() {

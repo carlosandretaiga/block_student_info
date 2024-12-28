@@ -14,10 +14,11 @@
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
+
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Student Info';
-$string['welcome'] = 'Hello, {$a} 👋';
-$string['nogroup'] = 'No groups assigned';
-$string['groupname'] = 'Your group: {$a}';
-$string['notloggedin'] = 'You need to be logged in to view this information.';
+$string['pluginname'] = 'Identificação';
+$string['welcome'] = 'Olá, {$a} 👋';
+$string['nogroup'] = 'Nenhum grupo atribuído';
+$string['groupname'] = 'Seu grupo: {$a}';
+$string['notloggedin'] = 'Você precisa estar logado para visualizar estas informações.';
