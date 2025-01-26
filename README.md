@@ -1,7 +1,7 @@
 # Plugin block_student_info
 
 ## Description
-This Moodle plugin provides a block that displays student information, such as their name and groups, within a course.
+This Moodle plugin provides a block that displays student information, such as their name and groups, within a course. Link plugin: [Plugin moodle.org](https://moodle.org/plugins/block_student_info).
 
 ## Features
 - Displays the logged-in user’s name.
